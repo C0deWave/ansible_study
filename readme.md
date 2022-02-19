@@ -2,6 +2,8 @@
 
 [Ansible란?](https://github.com/C0deWave/ansible_study/blob/master/Docs/Ansible란.md)
 
+[ansible 설치 및 Ping](https://github.com/C0deWave/ansible_study/blob/master/Docs/ansible%EC%84%A4%EC%B9%98.md)
+
 ----
 
 추후 할일
