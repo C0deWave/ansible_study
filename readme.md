@@ -4,6 +4,8 @@
 
 [ansible 설치 및 Ping](https://github.com/C0deWave/ansible_study/blob/master/Docs/ansible%EC%84%A4%EC%B9%98.md)
 
+[Ansible 구성 파일 및 옵션 알아보기](https://github.com/C0deWave/ansible_study/blob/master/Docs/ansible%20%EA%B5%AC%EC%84%B1%ED%8C%8C%EC%9D%BC.md)
+
 ----
 
 추후 할일
