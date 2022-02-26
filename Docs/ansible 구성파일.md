@@ -10,6 +10,16 @@
 
       Ansible이 접속하는 호스트 들에 관한 정보가 있습니다.
 
+### Ansible 설정 파일 내용
+
+* /etc/ansible/ansible.cfg
+
+[]()
+
+    stdout_callback = skippy (본래의 값)
+                    => debug로 변경
+    Ansible에서 나오는 에러 로그를 깔끔하게 정렬해서 볼 수 있다.
+
 ### 앤서블 실행시 자주 이용하는 옵션 값
 
     -i (--inventory-file) : 적용될 호스트들에 대한 파일
