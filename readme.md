@@ -10,6 +10,8 @@
 
 [Ansible 플레이북이란?](https://github.com/C0deWave/ansible_study/blob/master/Docs/ansible%20%ED%94%8C%EB%A0%88%EC%9D%B4%EB%B6%81.md)
 
+[Ansible 특정 서비스 가동 유무 확인하기](https://github.com/C0deWave/ansible_study/blob/master/Docs/%ED%8A%B9%EC%A0%95%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B0%80%EB%8F%99%20%EC%9C%A0%EB%AC%B4%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.md)
+
 ----
 
 ### 커밋 규칙
